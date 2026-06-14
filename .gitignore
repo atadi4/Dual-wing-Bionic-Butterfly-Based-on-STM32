@@ -1,0 +1,11 @@
+# Claude Code 本地配置（个人工具配置，不应提交）
+.claude/
+
+# 编译产物
+build/
+cmake-build-*/
+*.o
+*.elf
+*.bin
+*.hex
+*.map
